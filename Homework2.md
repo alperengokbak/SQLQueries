@@ -1,4 +1,4 @@
-# Homework 2
+# HOMEWORK 2
 
 ## Queries
 
