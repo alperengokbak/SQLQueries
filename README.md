@@ -10,3 +10,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 3 -
 [LIKE](https://github.com/alperengokbak/SQLQueries/blob/main/Homewrok3.md)
+
+4 -
+[DISTINCT And COUNT](https://github.com/alperengokbak/SQLQueries/blob/main/Homework4.md)
