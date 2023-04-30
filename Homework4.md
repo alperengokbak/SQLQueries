@@ -16,34 +16,33 @@
 
 ## Solution
 
-1 -
-```
+```1 -
 SELECT distinct(replacement_cost) FROM film;
 ```
-</br>
-2 -
 
-```
+</br>
+
+```2 -
 SELECT COUNT(distinct(replacement_cost)) FROM film;
 ```
-</br>
-3 -
 
-```
+</br>
+
+```3 -
 SELECT title FROM film
 WHERE title like "T%" AND rating = "G";
 ```
-</br>
-4 -
 
-```
+</br>
+
+```4 -
 SELECT COUNT(*) FROM country
 WHERE LENGTH(country) = 5;
 ```
-</br>
-5 -
 
-```
+</br>
+
+```5 -
 SELECT COUNT(*) FROM city
 WHERE city like "%R";
 ```
