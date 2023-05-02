@@ -16,3 +16,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 5 -
 [LIMIT And OFFSET](https://github.com/alperengokbak/SQLQueries/blob/main/Homework5.md)
+
+6 -
+[AGGREGATE FUNCTION](https://github.com/alperengokbak/SQLQueries/blob/main/Homework6.md)
