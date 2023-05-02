@@ -13,3 +13,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 4 -
 [DISTINCT And COUNT](https://github.com/alperengokbak/SQLQueries/blob/main/Homework4.md)
+
+5 -
+[LIMIT And OFFSET](https://github.com/alperengokbak/SQLQueries/blob/main/Homework5.md)
