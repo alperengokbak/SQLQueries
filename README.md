@@ -25,3 +25,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 8 -
 [CREATE, UPDATE And DELETE](https://github.com/alperengokbak/SQLQueries/blob/main/Homework8.md)
+
+9 -
+[INNER JOIN](https://github.com/alperengokbak/SQLQueries/blob/main/Homework9.md)
