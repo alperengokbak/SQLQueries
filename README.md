@@ -28,3 +28,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 9 -
 [INNER JOIN](https://github.com/alperengokbak/SQLQueries/blob/main/Homework9.md)
+
+10 -
+[RIGHT, LEFT, FULL And UNION](https://github.com/alperengokbak/SQLQueries/blob/main/Homework10.md)
