@@ -31,3 +31,6 @@ I would like share with you that I did examples and homeworks during **Patika Ac
 
 10 -
 [RIGHT, LEFT, FULL And UNION](https://github.com/alperengokbak/SQLQueries/blob/main/Homework10.md)
+
+11 -
+[INTERSECT And EXCEPT](https://github.com/alperengokbak/SQLQueries/blob/main/Homework11.md)
